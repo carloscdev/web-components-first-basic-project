@@ -1,0 +1,11 @@
+{
+  "name": "product-card-carloscdev",
+  "version": "1.0.0",
+  "description": "test web component - product card",
+  "main": "product-card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "carloscdev",
+  "license": "MIT"
+}
